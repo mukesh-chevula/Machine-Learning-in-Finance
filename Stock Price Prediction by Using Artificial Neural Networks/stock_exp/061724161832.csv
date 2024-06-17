@@ -1,0 +1,2 @@
+round_epochs,loss,mape,val_loss,val_mape,lr,first_neuron,hidden_layers,batch_size,epochs,dropout,shapes,activation
+500,799.7716064453125,187.5137176513672,15866.1689453125,70.98426818847656,0.38,10,1,26,500,0.4,brick,relu

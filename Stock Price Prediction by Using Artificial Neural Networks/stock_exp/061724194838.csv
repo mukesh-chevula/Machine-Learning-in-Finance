@@ -1,0 +1,2 @@
+round_epochs,loss,mean_absolute_percentage_error,val_loss,val_mean_absolute_percentage_error,lr,first_neuron,hidden_layers,batch_size,epochs,dropout,shapes,activation
+500,1173.5714111328125,95.0768814086914,21975.021484375,81.62503814697266,0.38,20,3,26,500,0.1,brick,relu
